@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=affan-here-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **SAYRA:Self Adaptive Yet Rendered assistant**
+- 🔭 I’m currently working on **AwnNet: Simple Business Solution**
 
 - 🌱 I’m currently learning **AI/Ml in Python**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdaliaffan24@gmail.com**
 
-- ⚡ Fun fact **The Journey to Master of all trades**
+- ⚡ Fun fact **Jack of all trades, Master of none but better than master of one**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.vixuals) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affanhere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:affan@office.rigomo.com) 
 
